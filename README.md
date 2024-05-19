@@ -1,4 +1,4 @@
-# Distributed Key-Value Store
+# KV-Quorum
 
 A distributed key-value store that implements quorum consensus replication and read-repair.
 
