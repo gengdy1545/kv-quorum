@@ -15,3 +15,6 @@ First, run `Runner.java`.
 Second, run `CorrectnessTest.java` to test the correctness of the system.
 
 There are currently no server down tests, you can test personally.
+
+## Important Notice
+Placing multiple replicas on a single node is obviously a stupid thing to do and would not be done in practice.
